@@ -1,4 +1,4 @@
 # Crypto
 token creation
 
-## for teching
+## for tec
